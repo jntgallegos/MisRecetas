@@ -2,7 +2,7 @@
 //  ReviewViewController.swift
 //  iosMisRecetas
 //
-//  Created by Johnatan Gallegos Díaz on 5/4/17.
+//  Created by Johnatan Gallegos Díaz on 05/05/17.
 //  Copyright © 2017 Johnatan Gallegos Díaz. All rights reserved.
 //
 
