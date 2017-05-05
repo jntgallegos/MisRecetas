@@ -3,7 +3,7 @@
 //  iosMisRecetas
 //
 //  Created by Johnatan Gallegos Díaz on 4/12/17.
-//  Copyright © 2017 Johnatan Gallegos Díaz. All rights reserved.
+//  Copyright © 2017 Johnatan Gallegos Díaz. All rights reserved....
 //
 
 import UIKit
